@@ -1,0 +1,7 @@
+icrawler
+six
+easy-pil
+beautifulsoup4
+lxml
+pandas
+openpyxl
